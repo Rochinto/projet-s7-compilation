@@ -1,0 +1,6 @@
+LOADI(1)
+LOADI(3)
+LOAD(fp+0)
+LOAD(fp+1)
+ADDI
+DROP

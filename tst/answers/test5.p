@@ -1,0 +1,5 @@
+LOADI(3)
+SAVEFP
+LOAD(fp+0)
+CALL(call_plusUn)
+RESTORE(1)
